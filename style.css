@@ -1,0 +1,30 @@
+body{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+div{
+  text-align: center;
+  width: 300px;
+  padding: 20px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+img{
+  position: absolute;
+    top: -40px;
+    left: calc(50% - 40px); 
+  border-radius: 50%;
+}
+h2,p,button{
+  margin-top: 40px; 
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+
+
+  
+   
